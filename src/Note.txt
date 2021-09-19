@@ -1,0 +1,7 @@
+-- List of Packages
+
+1. Font-Awesome
+    // https://github.com/FortAwesome/angular-fontawesome
+
+2. Json-Server
+    // https://www.npmjs.com/package/json-server
